@@ -1,18 +1,18 @@
 # Hi, I'm Amit Berg
 
 ## About Me
-I am a **Computer Science student** at The Open University of Israel (GPA: 83, 76/120 credits completed) and a **Software Developer** with professional experience in Data Analysis.
+I am a **Computer Science student** at The Open University of Israel (GPA: 83, 80/120 credits completed) and a **Software Developer** with professional experience in Data Analysis.
 
-I am currently seeking a Junior Software Developer role, leveraging my background in data and backend systems to build efficient, scalable applications.
+I am currently seeking a Software Engineering Internship, leveraging my background in data and backend systems to build efficient, scalable applications.
 
 * **Focus:** Python, Backend Development, Linux Environment.
 * **Background:** Experience as a Data Analyst (SQL/Oracle) in enterprise environments.
-* **Status:** Searching for Junior Software Developer positions (available immediately).
+* **Status:** Seeking Software Engineering Internships (Expected Graduation: Oct 2027).
 
 ## Tech Stack
 * **Languages:** Python, SQL, C++, C
-* **Tools:** Git, Linux
-* **Databases:** PostgreSQL
+* **Technologies & Tools:** Git, Linux, Rest APIs, Bash
+* **Databases:** PostgreSQL, Oracle Cloud
 
 ## Projects
 ### [ai-code-assistant](https://github.com/amitb-dev/ai-code-assistant)
